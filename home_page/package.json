@@ -1,0 +1,20 @@
+{
+    "name": "home_page",
+    "version": "0.0.0",
+    "private": false,
+    "dependencies": {
+        "react": "^16.3.2",
+        "react-dom": "^16.3.2",
+        "react-scripts": "1.1.4"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build && grunt && xcopy .\\public\\index.html ..\\..\\friendlypython\\templates\\home /y",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "devDependencies": {
+        "grunt": "^1.0.2",
+        "grunt-contrib-cssmin": "^2.2.1"
+    }
+}
