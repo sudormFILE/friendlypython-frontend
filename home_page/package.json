@@ -9,7 +9,7 @@
     },
     "scripts": {
         "start": "react-scripts start",
-        "build": "react-scripts build && grunt && xcopy .\\public\\index.html ..\\..\\friendlypython\\templates\\home /y",
+        "build": "react-scripts build && grunt && django-build.py",
         "test": "react-scripts test --env=jsdom",
         "eject": "react-scripts eject"
     },
