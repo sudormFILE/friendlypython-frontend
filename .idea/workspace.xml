@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="932524dd-73a9-49ce-97bb-c374b41c2bad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/friendlypython-frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/_bootstrap-4-grid.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/src/registerServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/style/_mixins.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/style/home_page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/style/home_page.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/style/home_page.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_page/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home_page/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home_page/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -88,6 +76,7 @@
         <option value="$PROJECT_DIR$/home_page/Gruntfile.js" />
         <option value="$PROJECT_DIR$/home_page/package.json" />
         <option value="$PROJECT_DIR$/home_page/public/index.html" />
+        <option value="$PROJECT_DIR$/home_page/.gitignore" />
       </list>
     </option>
   </component>
@@ -100,7 +89,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/home_page/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="23" />
     <option name="y" value="75" />
     <option name="width" value="1346" />
@@ -123,27 +112,6 @@
               <item name="friendlypython-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="friendlypython-frontend" type="462c0819:PsiDirectoryNode" />
               <item name="home_page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="friendlypython-frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="friendlypython-frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="home_page" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="friendlypython-frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="friendlypython-frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="home_page" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="friendlypython-frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="friendlypython-frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="home_page" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="friendlypython-frontend" type="b2602c69:ProjectViewProjectNode" />
@@ -210,7 +178,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -379,6 +347,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
