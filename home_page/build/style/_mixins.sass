@@ -1,0 +1,15 @@
+=border-radius($rad)
+    -webkit-border-radius: $rad
+    -moz-border-radius: $rad
+    border-radius: $rad
+
+=flex-display()
+    display: -webkit-flex
+    display: -moz-flex
+    display: -ms-flex
+    display: -o-flex
+    display: flex
+
+=break-point($width)
+    @media only screen and (min-width: $width)
+        @content

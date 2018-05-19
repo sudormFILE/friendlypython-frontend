@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="932524dd-73a9-49ce-97bb-c374b41c2bad" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/home_page/public/style/home_page.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/_bootstrap-4-grid.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/Gruntfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home_page/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home_page/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_page/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_page/build/static/js/main.7e8bde7e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_page/build/static/js/main.7e8bde7e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/build/static/css/home.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/build/static/css/home.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/build/static/js/main.68ac6bc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/build/static/js/main.68ac6bc7.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/home_page/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home_page/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/style/_mixins.sass" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/public/style/_mixins.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/style/home_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/public/style/home_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/style/home_page.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/home_page/public/style/home_page.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_page/style/home_page.sass" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,40 +28,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/friendlypython_frontend$django_build.coverage" NAME="django-build Coverage Results" MODIFIED="1526567293238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/home_page" />
+    <SUITE FILE_PATH="coverage/friendlypython_frontend$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1526635963699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bootstrap" />
+    <SUITE FILE_PATH="coverage/friendlypython_frontend$tre.coverage" NAME="tre Coverage Results" MODIFIED="1526645799234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bootstrap-4-grid" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home_page/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/home_page/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home_page/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="home_page.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home_page/style/home_page.sass">
+        <entry file="file://$PROJECT_DIR$/home_page/public/style/home_page.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="119">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home_page/public/style/_header.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_page/src/Header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,6 +70,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="SCSS File" />
+        <option value="Python Script" />
         <option value="Sass File" />
         <option value="JavaScript File" />
       </list>
@@ -69,6 +80,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>getElemen</find>
+      <find>over</find>
+      <find>$i</find>
+      <find>algin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -77,18 +91,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/home_page/src/index.js" />
-        <option value="$PROJECT_DIR$/bootstrap/bootstrap4-grid-only/scss/default.scss" />
-        <option value="$PROJECT_DIR$/bootstrap/_bootstrap-4-grid.sass" />
-        <option value="$PROJECT_DIR$/home_page/style/_mixins.sass" />
-        <option value="$PROJECT_DIR$/home_page/style/home_page.sass" />
-        <option value="$PROJECT_DIR$/home_page/Grunt.js" />
-        <option value="$PROJECT_DIR$/home_page/Gruntfile.js" />
         <option value="$PROJECT_DIR$/home_page/package.json" />
-        <option value="$PROJECT_DIR$/home_page/.gitignore" />
-        <option value="$PROJECT_DIR$/home_page/src/App.js" />
         <option value="$PROJECT_DIR$/home_page/build/index.html" />
+        <option value="$PROJECT_DIR$/home_page/src/index.js" />
+        <option value="$PROJECT_DIR$/home_page/style/home_page.sass" />
+        <option value="$PROJECT_DIR$/home_page/django-build.py" />
+        <option value="$PROJECT_DIR$/home_page/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/home_page/node_modules/react-scripts/scripts/start.js" />
+        <option value="$PROJECT_DIR$/bootstrap/_bootstrap-4-grid.sass" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/bootstrap-grid.scss" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/_functions.scss" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/_grid.scss" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/_grid-breakpoints.sass" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/breakpoints.sass" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/grid-breakpoints.scss" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/utilities/_flex.scss" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/sass/utilities/_flex.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/sass/utilities/_display.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/sass/_functions.sass" />
+        <option value="$PROJECT_DIR$/bootstrap/tmp.py" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/sass/_grid-breakpoints.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/sass/_bootstrap-grid.sass" />
+        <option value="$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/mixins/_grid-framework.scss" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/bootstrap-4-grid.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/sass/mixins/_breakpoints.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/_bootstrap-4-grid.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/sass/mixins/_grid-framework.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap-v4-grid-only/dist/bootstrap-grid.css" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/sass/_variables.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/tre.py" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/bootstrap-grid.sass" />
+        <option value="$PROJECT_DIR$/bootstrap-4-grid/_bootstrap-grid.sass" />
+        <option value="$PROJECT_DIR$/home_page/src/App.js" />
+        <option value="$PROJECT_DIR$/home_page/build/images/PyLogo.svg" />
+        <option value="$PROJECT_DIR$/home_page/src/PyLogo.js" />
+        <option value="$PROJECT_DIR$/home_page/public/style/_python-logo.sass" />
         <option value="$PROJECT_DIR$/home_page/public/index.html" />
+        <option value="$PROJECT_DIR$/home_page/public/style/_mixins.sass" />
+        <option value="$PROJECT_DIR$/home_page/src/svg/PyLogo.js" />
+        <option value="$PROJECT_DIR$/home_page/public/style/_page.sass" />
+        <option value="$PROJECT_DIR$/home_page/public/style/_footer.sass" />
+        <option value="$PROJECT_DIR$/home_page/public/style/home_page.sass" />
+        <option value="$PROJECT_DIR$/home_page/src/Page.js" />
+        <option value="$PROJECT_DIR$/home_page/src/hardcoded.js" />
+        <option value="$PROJECT_DIR$/home_page/src/hardcoded/splash_text.js" />
+        <option value="$PROJECT_DIR$/home_page/src/hardcoded/splash-text.js" />
+        <option value="$PROJECT_DIR$/home_page/src/svg/god-damn-hamburger.js" />
+        <option value="$PROJECT_DIR$/home_page/src/svg/hamburger.js" />
+        <option value="$PROJECT_DIR$/home_page/src/Header.js" />
+        <option value="$PROJECT_DIR$/home_page/public/style/_header.sass" />
       </list>
     </option>
   </component>
@@ -101,9 +154,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/home_page/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="23" />
-    <option name="y" value="75" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1346" />
     <option name="height" value="588" />
   </component>
@@ -136,19 +189,28 @@
               <item name="friendlypython-frontend" type="462c0819:PsiDirectoryNode" />
               <item name="home_page" type="462c0819:PsiDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="friendlypython-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="friendlypython-frontend" type="462c0819:PsiDirectoryNode" />
               <item name="home_page" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+              <item name="home_page.sass" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="friendlypython-frontend" type="b2602c69:ProjectViewProjectNode" />
               <item name="friendlypython-frontend" type="462c0819:PsiDirectoryNode" />
               <item name="home_page" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="friendlypython-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="friendlypython-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="home_page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="svg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,13 +222,20 @@
   <component name="PropertiesComponent">
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../friendlypython" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nettikäyttäjä\PycharmProjects\friendlypython-frontend\home_page\src\svg" />
+      <recent name="C:\Users\Nettikäyttäjä\PycharmProjects\friendlypython-frontend\home_page\build\images" />
+      <recent name="C:\Users\Nettikäyttäjä\PycharmProjects\friendlypython-frontend\bootstrap-4-grid" />
+      <recent name="C:\Users\Nettikäyttäjä\PycharmProjects\friendlypython-frontend\home_page\public" />
+      <recent name="C:\Users\Nettikäyttäjä\PycharmProjects\friendlypython-frontend\home_page" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Nettikäyttäjä\PycharmProjects\friendlypython-frontend\bootstrap" />
     </key>
@@ -183,6 +252,77 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.tre">
+    <configuration name="django-build" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="friendlypython-frontend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_page/django-build.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="friendlypython-frontend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bootstrap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bootstrap/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tre" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="friendlypython-frontend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bootstrap-4-grid" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bootstrap-4-grid/tre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.django-build" />
+      <item itemvalue="Python.tmp" />
+      <item itemvalue="Python.tre" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tre" />
+        <item itemvalue="Python.tmp" />
+        <item itemvalue="Python.django-build" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -197,8 +337,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
@@ -206,17 +345,17 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25416037" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.44884488" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25945538" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="SciView" order="1" weight="0.32849365" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -229,164 +368,305 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/home_page/package.json">
+    <entry file="file://$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/_functions.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state>
+          <caret selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/style/home_page.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/node_modules/bootstrap-4-grid/css/grid.css" />
-    <entry file="file://$PROJECT_DIR$/home_page/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/src/App.test.js">
+    <entry file="file://$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/_grid.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/bootstrap4-grid-only/scss/tutorial.scss" />
-    <entry file="file://$PROJECT_DIR$/bootstrap/bootstrap4-grid-only/scss/default.scss" />
-    <entry file="file://$PROJECT_DIR$/bootstrap/bootstrap4-grid-only/plugins/bootstrap/Gruntfile.js" />
-    <entry file="file://$PROJECT_DIR$/bootstrap/bootstrap4-grid-only/css/default.css" />
-    <entry file="file://$PROJECT_DIR$/bootstrap/node_modules/bootstrap-4-grid/css/grid.css" />
-    <entry file="file://$PROJECT_DIR$/bootstrap/_bootstrap-4-grid.sass">
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/sass/_grid.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="-525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/src/index.js">
+    <entry file="file://$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/bootstrap-grid.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="105">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/grid-breakpoints.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/style/home_page.sass">
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/sass/_grid-breakpoints.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/package.json">
+    <entry file="file://$PROJECT_DIR$/bootstrap/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/.gitignore">
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/sass/utilities/_flex.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/node_modules/bootstrap/scss/mixins/_grid-framework.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/bootstrap-4-grid.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/src/registerServiceWorker.js">
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/bootstrap-4-grid.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/sass/utilities/_display.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/src/App.js">
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/_bootstrap-4-grid.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/sass/mixins/_breakpoints.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/build/static/js/main.7e8bde7e.js">
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/sass/_bootstrap-grid.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap-v4-grid-only/dist/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap/scss/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8138" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap/dist/css/bootstrap-reboot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152403" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap/dist/css/bootstrap-grid.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/tre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="140" selection-start-column="140" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap/dist/css/bootstrap-grid.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret column="14715" selection-start-column="14715" selection-end-column="14715" />
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_page/build/index.html">
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/sass/_variables.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/node_modules/bootstrap/scss/bootstrap-grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/sass/mixins/_grid-framework.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/bootstrap-grid.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/public/style/_python-logo.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/build/images/PyLogo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/public/style/home_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/public/style/_mixins.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/svg/PyLogo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home_page/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/public/style/_footer.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/hardcoded.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/hardcoded/splash_text.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/hardcoded/splash-text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/Page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/public/style/_page.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4-grid/_bootstrap-grid.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="50" selection-start-line="50" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/public/style/home_page.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/svg/god-damn-hamburger.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/svg/hamburger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/src/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/build/static/css/home.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/build/static/js/main.f278cbb1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/build/asset-manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/build/service-worker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_page/public/style/_header.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>

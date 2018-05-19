@@ -5,7 +5,7 @@ module.exports = function(grunt) {
 
 		cssmin : {
 			target : {
-				src : "./style/home_page.css",
+				src : "./public/style/home_page.css",
 				dest : "./build/static/css/home.min.css"
 			}
 		}
