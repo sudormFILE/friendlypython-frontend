@@ -5,7 +5,7 @@ class Page extends Component {
     constructor() {
         super();
         this.state = {
-            "user": document.getElementsByTagName('meta')['user-auth'].content+' '
+            "user": document.getElementsByTagName('meta')['user-auth'].content
         };
     };
     render() {
