@@ -11,6 +11,8 @@ class Header extends Component {
 ];
     }
         render() {
+    const url = window.location.href;
+    const login = url[url.length - 1] === '/' ? url+'auth/login': url+'/auth/login';
 
     const SelectText = () => {
     const index = Math.floor(Math.random()*this.texts.length);
@@ -31,7 +33,7 @@ class Header extends Component {
                 <a>About</a>
                 <a>Community</a>
                 <a>Forum</a>
-                <a>Login</a>
+                <a href={login}>Login</a>
                 <img id="menu-icon" alt="Not found"  src={svg_menu_icon}/>
             </div>
         </div>
