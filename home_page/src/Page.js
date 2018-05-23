@@ -10,7 +10,7 @@ class Page extends Component {
     };
     render() {
     const User = () => {
-        if (this.state.user === undefined) {
+        if (this.state.user === '***') {
             return <div>
                 <p>You haven't logged in yet.</p>
                 <a>Login here</a>
