@@ -4,9 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="theme-color" content="#000000">
-    {% if user.is_authenticated %}
-    <meta name="user-auth" content="{{ user.username }}">
-    {% endif %}
+    <meta name="user-auth" content="{% if user.is_authenticated %}{{ user.username }}{% else %}undefined{% endif %}">
+    py manage.py runserver 0.0.0.0:8000
     <link rel="stylesheet" href="style/home_page.css"/>
 <title>FriendlyPython | Online community website</title>
 </head>

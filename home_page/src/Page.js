@@ -5,11 +5,8 @@ class Page extends Component {
     constructor() {
         super();
         this.state = {
-            "user": undefined
+            "user": document.getElementsByTagName('meta')['user-auth'].content
         };
-        if (this.state.user === undefined) {
-            this.setState({"user": document.getElementsByName("user-auth")})
-        }
     };
     render() {
     const User = () => {
@@ -20,13 +17,13 @@ class Page extends Component {
             </div>
         } else {
             return <div>
-                <p>Welcome, {this.state.user}</p>
+                <p>Welcome, {this.state.user}!</p>
             </div>
         }
     };
     return (
     <main className="container" id="Page">
-        <div className="container">
+        <div className="row">
             <User/>
         </div>
     </main>
