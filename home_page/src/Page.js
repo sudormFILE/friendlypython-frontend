@@ -5,7 +5,7 @@ class Page extends Component {
     constructor() {
         super();
         this.state = {
-            "user": document.getElementsByTagName('meta')['user-auth'].content
+            "user": document.getElementsByTagName('meta')['user-auth'].content+' '
         };
     };
     render() {
@@ -16,15 +16,11 @@ class Page extends Component {
     const User = () => {
         if (this.state.user === '***') {
             return <div>
-                <p>Hey there! </p>
-                <a href={login}>Login here</a>
+                <p className="user-auth">Hey there! <a href={login}>Login here</a></p>
             </div>
         } else {
             return <div className="col">
-                <p id="user-auth">
-                    {this.state.user}
-                    <a href={logout}>Logout</a>
-                </p>
+                <p className="user-auth">{this.state.user} <a href={logout}>Logout</a></p>
             </div>
         }
     };
