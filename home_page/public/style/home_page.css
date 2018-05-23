@@ -1830,6 +1830,16 @@ html {
     #header-items > a {
       margin-left: 1rem; } }
 
+#Page {
+  position: absolute;
+  top: 4rem;
+  left: 0;
+  right: 0;
+  border: solid orangered; }
+  @media only screen and (min-width: 576px) {
+    #Page {
+      top: 5rem; } }
+
 html {
   font-size: large;
   font-family: "Flux Regular", "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif; }
