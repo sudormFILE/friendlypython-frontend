@@ -9,6 +9,9 @@ class Page extends Component {
         };
     };
     render() {
+    const url = window.location.href;
+    const logout = url[url.length - 1] === '/' ? url+'auth/logout': url+'/auth/logout';
+
     const User = () => {
         if (this.state.user === '***') {
             return <div>
@@ -16,13 +19,16 @@ class Page extends Component {
                 <a>Login here</a>
             </div>
         } else {
-            return <div>
-                <p>Welcome, {this.state.user}!</p>
+            return <div className="col">
+                <p id="user-auth">
+                    {this.state.user}
+                    <a href={logout}>Logout</a>
+                </p>
             </div>
         }
     };
     return (
-    <main className="container" id="Page">
+    <main className="container-fluid" id="Page">
         <div className="row">
             <User/>
         </div>

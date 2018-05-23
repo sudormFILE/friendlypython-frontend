@@ -1832,13 +1832,18 @@ html {
 
 #Page {
   position: absolute;
-  top: 4rem;
+  top: 3.6rem;
+  border: solid orangered;
   left: 0;
-  right: 0;
-  border: solid orangered; }
+  right: 0; }
   @media only screen and (min-width: 576px) {
     #Page {
-      top: 5rem; } }
+      top: 4.5rem; } }
+
+#user-auth {
+  font-size: small;
+  float: right;
+  margin-right: 0.4rem; }
 
 html {
   font-size: large;
